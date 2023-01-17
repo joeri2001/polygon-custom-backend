@@ -1,0 +1,52 @@
+{
+  "Debug": {
+    "Debug": false,
+    "ToFiles": false,
+    "DebugMessages": false
+  },
+  "Backend": {
+    "Port": 9838
+  },
+  "Http": {
+    "Enabled": true,
+    "Port": 8888,
+    "ShowAccountNames": false
+  },
+  "RawData": {
+    "Enabled": false,
+    "WebhookUrl": "",
+    "DelayMs": 5000
+  },
+  "MySql": {
+    "Enabled": false,
+    "ConnectionString": "server=localhost; port=3306; database=mysqldotnet; user=mysqldotnetuser; password=Pa55w0rd!; Persist Security Info=false; Connect Timeout=300"
+  },
+  "MadExport": {
+    "Enabled": false,
+    "ConnectionString": "server=localhost; port=3306; database=mysqldotnet; user=mysqldotnetuser; password=Pa55w0rd!; Persist Security Info=false; Connect Timeout=300"
+  },
+  "Encounter": {
+    "Enabled": false,
+    "SaveToDatabase": false,
+    "DiscordWebhooks": [
+      {
+        "WebhookUrl": "discord webhook url",
+        "FilterByIV": false,
+        "OnlyEqual": false,
+        "MinAttackIV": 0,
+        "MinDefenseIV": 0,
+        "MinStaminaIV": 0,
+        "FilterByLocation": false,
+        "Latitude": 0.1,
+        "Longitude": 0.1,
+        "DistanceInKm": 20,
+        "FilterByShiny": false,
+        "IsShiny": false,
+        "CustomLink": {
+          "Title": "Custom Link",
+          "Link": ""
+        }
+      }
+    ]
+  }
+}

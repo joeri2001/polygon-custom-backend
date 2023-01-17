@@ -1,0 +1,25 @@
+2023-01-17 13:27:52.325 +01:00 [INF] TCP server port: 9838
+2023-01-17 13:27:52.347 +01:00 [INF] Server starting...
+2023-01-17 13:27:52.349 +01:00 [INF] Currently Connected: 0
+2023-01-17 13:27:52.350 +01:00 [INF] Done!
+2023-01-17 13:27:52.350 +01:00 [INF] Use CTRL+C to close the software!
+2023-01-17 13:28:52.350 +01:00 [INF] Currently Connected: 1
+2023-01-17 13:39:25.655 +01:00 [INF] Server stopping...
+2023-01-17 13:39:25.658 +01:00 [INF] User JoeriPGO with sessionId c1b4927b-d224-48de-8441-6d6d67cf16b0 has disconnected.
+2023-01-17 13:39:25.661 +01:00 [INF] Done!
+2023-01-17 13:39:28.882 +01:00 [INF] TCP server port: 9838
+2023-01-17 13:39:28.904 +01:00 [INF] Server starting...
+2023-01-17 13:39:28.906 +01:00 [INF] Currently Connected: 0
+2023-01-17 13:39:28.907 +01:00 [INF] Done!
+2023-01-17 13:39:28.907 +01:00 [INF] Use CTRL+C to close the software!
+2023-01-17 13:40:27.146 +01:00 [INF] Currently Connected: 1
+2023-01-17 14:27:31.424 +01:00 [INF] Server stopping...
+2023-01-17 14:27:31.426 +01:00 [INF] User JoeriPGO with sessionId a3305696-a8f5-4c2c-82a8-b4770a348dd7 has disconnected.
+2023-01-17 14:27:31.427 +01:00 [INF] User JoeriPGO with sessionId acdb04f7-4bac-4a1b-b321-67a85bebb806 has disconnected.
+2023-01-17 14:27:31.428 +01:00 [INF] Done!
+2023-01-17 14:27:36.310 +01:00 [INF] TCP server port: 9838
+2023-01-17 14:27:36.334 +01:00 [INF] Server starting...
+2023-01-17 14:27:36.334 +01:00 [INF] Done!
+2023-01-17 14:27:36.334 +01:00 [INF] Use CTRL+C to close the software!
+2023-01-17 14:27:36.335 +01:00 [INF] Currently Connected: 0
+2023-01-17 14:28:36.336 +01:00 [INF] Currently Connected: 1
